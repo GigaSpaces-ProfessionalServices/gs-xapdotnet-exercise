@@ -3,8 +3,8 @@ gs-xapdotnet-exercise
 
 A programming exercise for XAP.net
 
-1. Fork this repo and clone localy
-1. Read the [XAP.net in 5 minutes doc](http://docs.gigaspaces.com/xap97net/dotnet-your-first-data-grid-application.html) and implement in your repo.
+1. Fork this repo and clone locally
+1. Read the [XAP.net in 5 minutes doc](http://docs.gigaspaces.com/xap97net/dotnet-your-first-data-grid-application.html) and implement it in your repo.
 Note the comment about running in free mode. Only run a single partition for now...
 1. Commit, push
 1. Implement a client applications that writes 1024 Persons to the grid
